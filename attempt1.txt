@@ -1,1 +1,1 @@
-Getting familiar with git
+Getting familiar with git (distributed VCS)
